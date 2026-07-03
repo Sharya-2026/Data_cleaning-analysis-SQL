@@ -20,7 +20,7 @@ Key analyses include market size, average nightly price, room type distribution,
 * Common Table Expressions (CTEs)
 * Window Functions (RANK, DENSE_RANK)
 
-### Key Business Insights
+### Key Insights
 
 * Total Airbnb listings and active hosts
 * Average nightly prices across room types
@@ -31,4 +31,9 @@ Key analyses include market size, average nightly price, room type distribution,
 * Listings without customer reviews
 * Top three most expensive listings in each neighbourhood
 
-This project showcases practical SQL skills commonly required for Data Analyst roles, including relational database design, business reporting, analytical query writing, and data exploration. It serves as a strong portfolio project demonstrating the ability to extract actionable insights from structured data using PostgreSQL.
+This project showcases practical SQL skills commonly required for Data Analyst roles, including relational database design, business reporting,
+analytical query writing, and data exploration. It serves as a strong portfolio project demonstrating the ability to extract actionable insights from structured data using PostgreSQL.
+
+### AUTHOR AND CONTACT
+SHARYA FATIMA
+sharyafatima.2025@gmail.com
