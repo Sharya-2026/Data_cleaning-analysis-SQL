@@ -1,0 +1,107 @@
+# 🏡 Airbnb Listings SQL Data Analysis
+
+## 📌 Project Overview
+
+This project analyzes Airbnb listing, review, and calendar data using SQL to generate meaningful business insights. The objective is to understand market trends, pricing strategies, host performance, occupancy rates, customer engagement, and revenue opportunities through exploratory data analysis.
+
+## 🎯 Objectives
+
+* Analyze the overall Airbnb market size.
+* Evaluate pricing trends across different room types.
+* Measure occupancy and estimated revenue.
+* Identify high-performing and low-performing hosts.
+* Compare neighbourhood performance.
+* Discover premium listings based on pricing and reviews.
+* Generate business insights using SQL queries.
+
+## 📂 Database Structure
+
+The project consists of three tables:
+
+* **Listings** – Property details, host information, pricing, availability, and review statistics.
+* **Reviews** – Customer reviews and reviewer information.
+* **Calendar** – Daily pricing and booking availability.
+
+## 📊 SQL Analysis Performed
+
+### Market Analysis
+
+* Total number of Airbnb listings
+* Total number of unique hosts
+* Average nightly price
+* Room type distribution
+
+### Pricing Analysis
+
+* Average price by room type
+* Top 10 most expensive listings
+* Listings priced above the overall average
+* Premium listings with above-average price and reviews
+
+### Occupancy & Revenue Analysis
+
+* Estimated occupancy using booked days
+* Estimated revenue by room type
+* Estimated revenue by neighbourhood
+* Revenue ranking of hosts
+
+### Neighbourhood Analysis
+
+* Top neighbourhoods by number of listings
+* Low-performing neighbourhoods
+* Average price by neighbourhood
+* Occupancy comparison across neighbourhoods
+* Top three most expensive listings in each neighbourhood
+
+### Host Performance Analysis
+
+* Best-performing hosts based on review count
+* Low-performing hosts
+* Host portfolio analysis (number of properties owned)
+* Top hosts within each neighbourhood
+* Revenue ranking for hosts
+
+### Review Analysis
+
+* Most reviewed listings
+* Listings with no reviews
+* Total reviews received by each listing
+
+## 🛠 SQL Concepts Used
+
+* Aggregate Functions (COUNT, SUM, AVG)
+* GROUP BY
+* ORDER BY
+* JOINs
+* LEFT JOIN
+* Common Table Expressions (CTEs)
+* Window Functions (RANK, DENSE_RANK)
+* Subqueries
+* Filtering with WHERE
+* Estimated revenue calculations
+
+## 📈 Key Insights
+
+* Identified the distribution of Airbnb properties across room types.
+* Compared average pricing between room categories.
+* Estimated occupancy using availability data.
+* Ranked neighbourhoods based on listings, pricing, and revenue.
+* Identified premium listings with strong customer engagement.
+* Evaluated host performance through reviews, property count, and estimated revenue.
+* Highlighted listings with no customer reviews for potential improvement.
+
+## 🚀 Skills Demonstrated
+
+* SQL Data Analysis
+* Relational Database Management
+* Business Intelligence
+* Revenue Analysis
+* Customer Review Analysis
+* Window Functions
+* Data Aggregation
+* Query Optimization
+* Analytical Problem Solving
+
+## 📌 Conclusion
+
+This project demonstrates how SQL can be used to transform raw Airbnb data into actionable business insights. Through pricing analysis, occupancy estimation, host evaluation, neighbourhood comparison, and revenue estimation, the project showcases practical SQL techniques commonly used by data analysts to support business decision-making.
